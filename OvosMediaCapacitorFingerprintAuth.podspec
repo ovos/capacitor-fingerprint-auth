@@ -1,6 +1,6 @@
 
   Pod::Spec.new do |s|
-    s.name = 'CapacitorFingerprintAuth'
+    s.name = 'OvosMediaCapacitorFingerprintAuth'
     s.version = '0.0.3'
     s.summary = 'FingerPrint Auth'
     s.license = 'MIT'
