@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-import { FingerPrintAuth } from 'capacitor-fingerprint-auth';
+import { FingerPrintAuth } from '@ovos-media/capacitor-fingerprint-auth';
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'

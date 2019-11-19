@@ -12,7 +12,7 @@ PODS:
 DEPENDENCIES:
   - "Capacitor (from `../../node_modules/@capacitor/ios`)"
   - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
-  - CapacitorFingerprintAuth (from `../../node_modules/capacitor-fingerprint-auth`)
+  - CapacitorFingerprintAuth (from `../../node_modules/@ovos-media/capacitor-fingerprint-auth`)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -24,7 +24,7 @@ EXTERNAL SOURCES:
   CapacitorCordova:
     :path: "../../node_modules/@capacitor/ios"
   CapacitorFingerprintAuth:
-    :path: "../../node_modules/capacitor-fingerprint-auth"
+    :path: "../../node_modules/@ovos-media/capacitor-fingerprint-auth"
 
 SPEC CHECKSUMS:
   Capacitor: 694bd651f06ece975ddf33d78d012a0d0fbece57

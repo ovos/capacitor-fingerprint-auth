@@ -5,5 +5,5 @@ node_modules
 dist
 ios/Plugin/Pods/
 demo/android/app/src/main/assets
-android/capacitor-fingerprint-auth/build
+android/ovos-media-capacitor-fingerprint-auth/build
 demo/android/app/build
