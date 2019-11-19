@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-fingerprint-auth",
-  "version": "0.0.2",
+  "name": "@ovos-media/capacitor-fingerprint-auth",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -10,7 +10,7 @@
     "watch": "tsc --watch",
     "prepublishOnly": "npm run build"
   },
-  "author": "Osei Fortune",
+  "author": "Osei Fortune and ovos media gmbh",
   "license": "MIT",
   "dependencies": {
     "@capacitor/core": "latest"
@@ -22,7 +22,7 @@
     "dist/",
     "ios/",
     "android/",
-    "CapacitorFingerprintAuth.podspec"
+    "OvosMediaCapacitorFingerprintAuth.podspec"
   ],
   "keywords": [
     "capacitor",

@@ -1,17 +1,16 @@
 # Capacitor FingerPrint Auth
 
-[![npm](https://img.shields.io/npm/v/capacitor-fingerprint-auth.svg)](https://www.npmjs.com/package/capacitor-fingerprint-auth)
-[![npm](https://img.shields.io/npm/dt/capacitor-fingerprint-auth.svg?label=npm%20downloads)](https://www.npmjs.com/package/capacitor-fingerprint-auth)
-[![Build Status](https://travis-ci.org/triniwiz/capacitor-fingerprint-auth.svg?branch=master)](https://travis-ci.org/triniwiz/capacitor-fingerprint-auth)
+[![npm](https://img.shields.io/npm/v/capacitor-fingerprint-auth.svg)](https://www.npmjs.com/package/@ovos-media/capacitor-fingerprint-auth)
+[![npm](https://img.shields.io/npm/dt/capacitor-fingerprint-auth.svg?label=npm%20downloads)](https://www.npmjs.com/package/@ovos-media/capacitor-fingerprint-auth)
 
 ## Installation
 
-* `npm i capacitor-fingerprint-auth`
+* `npm i @ovos-media/capacitor-fingerprint-auth`
 
 ## Usage
 
 ```ts
-import { FingerPrintAuth } from 'capacitor-fingerprint-auth';
+import { FingerPrintAuth } from '@ovos-media/capacitor-fingerprint-auth';
 const auth = new FingerPrintAuth();
 const data = await auth.available();
 //
